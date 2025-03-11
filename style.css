@@ -7,6 +7,7 @@ body{
   background-color: #f0f0f0;
 }
 
+
 .game{
   text-align: center;
   background-color: white;
@@ -27,12 +28,12 @@ body{
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  background-color: blue;
+  background-color: darkorchid;
   color: white;
 }
 
 .choice:hover{
-  background-color: rgb(4, 4, 157);
+  background-color: rgb(83, 28, 110);
 }
 
 .result{
